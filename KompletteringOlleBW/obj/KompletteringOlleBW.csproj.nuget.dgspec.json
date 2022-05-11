@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj": {}
+    "C:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj": {}
   },
   "projects": {
-    "c:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj": {
+    "C:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj",
+        "projectUniqueName": "C:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj",
         "projectName": "KompletteringOlleBW",
-        "projectPath": "c:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj",
+        "projectPath": "C:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj",
         "packagesPath": "C:\\Users\\olle.brinkwennberg\\.nuget\\packages\\",
-        "outputPath": "c:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\obj\\",
+        "outputPath": "C:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

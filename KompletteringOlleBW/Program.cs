@@ -1,12 +1,13 @@
 ﻿using System;
+Hello();
+Console.ReadLine();
 
-namespace KompletteringOlleBW
+
+
+
+
+
+static void Hello()
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
+    Console.WriteLine("Hello and welcome to my quiz!");
 }

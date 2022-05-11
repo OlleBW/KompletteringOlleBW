@@ -1,0 +1,16 @@
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\bin\Debug\net5.0\KompletteringOlleBW.exe
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\bin\Debug\net5.0\KompletteringOlleBW.deps.json
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\bin\Debug\net5.0\KompletteringOlleBW.runtimeconfig.json
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\bin\Debug\net5.0\KompletteringOlleBW.runtimeconfig.dev.json
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\bin\Debug\net5.0\KompletteringOlleBW.dll
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\bin\Debug\net5.0\KompletteringOlleBW.pdb
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\KompletteringOlleBW.csproj.AssemblyReference.cache
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\KompletteringOlleBW.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\KompletteringOlleBW.AssemblyInfoInputs.cache
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\KompletteringOlleBW.AssemblyInfo.cs
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\KompletteringOlleBW.csproj.CoreCompileInputs.cache
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\KompletteringOlleBW.dll
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\refint\KompletteringOlleBW.dll
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\KompletteringOlleBW.pdb
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\KompletteringOlleBW.genruntimeconfig.cache
+C:\PROG1\KompletteringOlleBW\KompletteringOlleBW\obj\Debug\net5.0\ref\KompletteringOlleBW.dll

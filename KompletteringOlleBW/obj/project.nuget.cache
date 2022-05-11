@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o/cDrARNys2Y4YkMNkaxsTl+SsUx5k658n5yxAya1qvy/w6LZBuY2suXEaiNgnpwCJ0ZLryUE8ebLhPPmAtEXg==",
+  "dgSpecHash": "qU+22Ea4YXnrs5Ds4DUxUt+yIlzTmS7HWdK0MjlnZWbGWJpuom4JyrqZgv84PJJ5EA8wuITOP3Ameuxt20G+4w==",
   "success": true,
-  "projectFilePath": "c:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj",
+  "projectFilePath": "C:\\PROG1\\KompletteringOlleBW\\KompletteringOlleBW\\KompletteringOlleBW.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olle.brinkwennberg\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
