@@ -38,7 +38,9 @@ while (Lives > 0)
         {
             Console.Clear();
             Console.WriteLine("You died, Shame on you!");
-            End();
+            Console.ReadLine();
+            Question1 = true;
+            Question2 = true;
         }
     }
 
@@ -73,7 +75,7 @@ static void Hello()
     Console.WriteLine("Press Enter to continue.");
 }
 
-// Writes out a specific messeage if player is correct
+// Writes out a specific message if player is correct
 static void Correct()
 {
     Console.WriteLine("That was Correct!");
@@ -81,17 +83,9 @@ static void Correct()
     Console.ReadLine();
 }
 
-// Writes out specific messeage if player is incorrect
+// Writes out specific message if player is incorrect
 static void False()
 {
     Console.WriteLine("That was Incorrect!");
     Console.WriteLine("Try Again!");
-}
-
-// Ends the game after pressing enter
-static void End()
-{
-    Console.ReadLine();
-    Question1 = true;
-    Question2 = true;
 }
