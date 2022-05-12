@@ -14,6 +14,7 @@ Console.Clear();
 
 while (Lives > 0)
 {
+    // Code runs until you get Question 1 right
     while (Question1 == false)
     {
         Console.WriteLine("What is 2+2?");
